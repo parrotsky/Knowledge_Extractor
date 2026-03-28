@@ -1,0 +1,10 @@
+{
+	"id": "knowledge-extractor",
+	"name": "Knowledge Extractor",
+	"version": "1.0.0",
+	"minAppVersion": "1.5.0",
+	"description": "Extract knowledge cards with an LLM, create linked notes, and load prompts from a Vault markdown file.",
+	"author": "xguo3",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
